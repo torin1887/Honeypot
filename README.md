@@ -22,6 +22,8 @@
 ### Database Backup (Required) 
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
+ MHN-Admin uses MongoDB In the JSON file, it contains protocal's name, time of attack, source ip, source and destination port, identifier and the name of honeypot
+ The JSON file is in the same repository
 
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
